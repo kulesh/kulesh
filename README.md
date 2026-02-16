@@ -1,6 +1,4 @@
-Hi there,
-
-I’m Kulesh, a builder, software engineer, and CTO. I spend most of my time building products, designing the systems behind them, and pressure-testing both against real-world constraints. Some ongoing explorations:
+## Some ongoing explorations:
 
 ### Generative specifications as a distribution medium
 

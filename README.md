@@ -1,4 +1,7 @@
-## Some ongoing explorations:
+### Recursive LM
+**Can an agent runtime grow software through use?** A combination of recursive agents and language model backed dynamic dispatch to push the envelope on software creation through use.
+
+- [Recurgent](https://github.com/kulesh/recurgent) - Write code/spec in your own domain language and let the agent iterate on actual implementation.
 
 ### Programmable enterprises
 

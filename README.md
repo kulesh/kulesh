@@ -22,8 +22,9 @@
 
 Writing is how I crystallize ideas, test assumptions, and make implicit mental models explicit. I don't publish everything I write. Here are some recently published pieces:
 
-- [A Field Guide to Technical Debt](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/a-field-guide-to-technical-debt.md)
 - [Programming, Evolved: Lessons & Observations](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md)
-- [Three Practices for an Effective Engineering Organization](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/three-practices-for-an-effective-engineering-org.md)
 - [Harness and Embodiment: A Conceptual Framework for AI Systems](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/harness-and-embodiment.md)
 - [AI Kata: My AI Pairing Workflow](https://github.com/kulesh/dotfiles/blob/main/dev/dev/ai-kata/README.md)
+- [A Field Guide to Technical Debt](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/a-field-guide-to-technical-debt.md)
+- [Three Practices for an Effective Engineering Organization](https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/three-practices-for-an-effective-engineering-org.md)
+
